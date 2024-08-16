@@ -54,7 +54,7 @@ body {
   font-family: Avenir;
   width: 100px;
 }
-.auth-input {
+.auth-input { 
   background-color: #3e404b;
   color: white;
   font-family: "Avenir";

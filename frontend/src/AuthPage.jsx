@@ -15,11 +15,11 @@ const Authpage = (props) => {
     return(
         <div className="background">
             <form onSubmit={onSubmit} className="form-card">
-                <div className="form-title">Hello There..!!</div>
+                <div className="form-title">Welcome to TalkStream</div>
                 <div className="form-subtitle">Set a username to get started</div>
 
                 <div className="auth">
-                    <div className="auth-lable">Username</div>
+                    <div className="auth-label">Username</div>
                     <input className="auth-input" name="username" />
                     <button className="auth-button" type="submit">Enter</button>
                 </div>
